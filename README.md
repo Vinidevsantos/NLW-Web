@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Ecoleta" title="Ecoleta" src=".github/logo.svg" width="220px" />
+    <img alt="Happy" title="Happy" src="https://raw.githubusercontent.com/Vinidevsantos/NLW2-Web/46fbebf97f8166192bf647fbe33101b2e66477b1/src/images/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
@@ -11,22 +11,16 @@
   <a href="#autor">Autor</a>
 </p>
 
-<p align="center">
-    <img alt="GitHub" src="https://img.shields.io/github/license/Vinidevsantos/nlw-01-booster">
-    <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Vinidevsantos/nlw-01-booster">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Vinidevsantos?style=social">
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/Vinidevsantos/nlw-01-booster?style=social">
-</p>
 <br>
 
 <p align="center">
-     <a href="https://nlw-01-booster.vercel.app/"><strong>Vercel Link</strong></a> 
+     <a href="https://nlw-2-web.vercel.app/"><strong>Vercel Link</strong></a> 
 </p>
 
 <br>
 <p align="center">
-    <a href="https://nlw-01-booster.vercel.app/">
-        <img alt="Ecoleta" src=".github/ecoleta.png" width="100%">
+    <a href="https://nlw-2-web.vercel.app/">
+        <img alt="Happy" src="https://github.com/Vinidevsantos/NLW2-Web/blob/master/src/images/Home.png?raw=true" width="100%">
     </a>
 </p>
 
@@ -34,18 +28,16 @@
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
-- [Node.js](https://nodejs.org/en/)
 - [React](https://reactjs.org)
-- [React Native](https://facebook.github.io/react-native/)
-- [Expo](https://expo.io/)
+
 
 ## 💻 Projeto
 
-O Ecoleta é um marketplace que ajuda pessoas a encontrarem pontos de coleta de resíduos de forma eficiente.
+O Happy e uma forma de pessoas encontrarem pessoas carentes para poder ajudar de alguma forma.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/9TlOcj6l7D05fZhU12xWT3/Ecoleta-Booster?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
+Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/qzQY9yme9QIUqsUPDcX1iy/Happy-Web-Copy?node-id=0%3A1). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
 
 ## 🤔 Como contribuir
 
